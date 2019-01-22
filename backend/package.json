@@ -1,0 +1,24 @@
+{
+  "name": "sut_live_backend",
+  "version": "1.0.0",
+  "description": "sut live backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yanjun0501",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-convert": "^1.2.0",
+    "koa-history-api-fallback": "^0.1.3",
+    "koa-log4": "^2.3.2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "md5": "^2.2.1",
+    "mysql": "^2.16.0",
+    "promise.ify": "^0.3.0"
+  }
+}
