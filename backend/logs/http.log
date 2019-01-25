@@ -8,3 +8,67 @@
 [2019-01-21T17:15:20.878] [INFO] app - --------step into koa-------------
 [2019-01-21T17:15:37.611] [INFO] startup - logs config finished!
 [2019-01-21T17:15:37.616] [INFO] app - --------step into koa-------------
+[2019-01-23T16:46:07.157] [INFO] startup - logs config finished!
+[2019-01-23T16:46:07.162] [INFO] app - --------step into koa-------------
+[2019-01-23T16:46:32.581] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:46:32.945] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:47:24.502] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:47:31.784] [ERROR] http - ::1 - - "GET /api/user/userinfo HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:52:01.987] [INFO] startup - logs config finished!
+[2019-01-23T16:52:01.991] [INFO] app - --------step into koa-------------
+[2019-01-23T16:52:04.791] [ERROR] http - ::1 - - "GET /api/user/userinfo HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:52:49.255] [INFO] startup - logs config finished!
+[2019-01-23T16:52:49.258] [INFO] app - --------step into koa-------------
+[2019-01-23T16:52:50.243] [ERROR] http - ::1 - - "GET /api/user/userinfo HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:52:51.064] [ERROR] http - ::1 - - "GET /api/user/userinfo HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:53:56.010] [ERROR] http - ::1 - - "GET /api/user/userinfo HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:53:57.360] [ERROR] http - ::1 - - "GET /api/user/userinfo HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:10.264] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:12.092] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:12.432] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "http://localhost:3001/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:15.214] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:39.807] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:40.717] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:41.185] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:41.438] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:54:46.509] [INFO] startup - logs config finished!
+[2019-01-23T16:54:46.513] [INFO] app - --------step into koa-------------
+[2019-01-23T16:54:47.911] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:55:18.345] [INFO] startup - logs config finished!
+[2019-01-23T16:55:18.349] [INFO] app - --------step into koa-------------
+[2019-01-23T16:55:39.038] [INFO] startup - logs config finished!
+[2019-01-23T16:55:39.042] [INFO] app - --------step into koa-------------
+[2019-01-23T16:55:40.828] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:55:41.730] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:55:52.279] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:55:53.095] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:55:58.404] [INFO] startup - logs config finished!
+[2019-01-23T16:55:58.408] [INFO] app - --------step into koa-------------
+[2019-01-23T16:55:59.502] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:56:19.244] [INFO] startup - logs config finished!
+[2019-01-23T16:56:19.247] [INFO] app - --------step into koa-------------
+[2019-01-23T16:56:21.666] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:56:23.347] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:56:23.989] [ERROR] http - ::1 - - "GET / HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-23T16:56:35.801] [INFO] startup - logs config finished!
+[2019-01-23T16:56:35.805] [INFO] app - --------step into koa-------------
+[2019-01-23T16:56:36.660] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T15:33:45.660] [INFO] startup - logs config finished!
+[2019-01-25T15:33:45.664] [INFO] app - --------step into koa-------------
+[2019-01-25T15:35:54.357] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T15:37:06.133] [INFO] startup - logs config finished!
+[2019-01-25T15:37:06.137] [INFO] app - --------step into koa-------------
+[2019-01-25T15:43:58.995] [INFO] startup - logs config finished!
+[2019-01-25T15:43:58.999] [INFO] app - --------step into koa-------------
+[2019-01-25T15:45:28.164] [INFO] startup - logs config finished!
+[2019-01-25T15:45:28.168] [INFO] app - --------step into koa-------------
+[2019-01-25T15:48:55.625] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T15:48:56.362] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T15:49:02.677] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T15:50:01.121] [INFO] startup - logs config finished!
+[2019-01-25T15:50:01.125] [INFO] app - --------step into koa-------------
+[2019-01-25T15:50:19.910] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T16:04:45.563] [INFO] startup - logs config finished!
+[2019-01-25T16:04:45.568] [INFO] app - --------step into koa-------------
+[2019-01-25T16:05:21.784] [INFO] startup - logs config finished!
+[2019-01-25T16:05:21.787] [INFO] app - --------step into koa-------------

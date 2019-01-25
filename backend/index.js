@@ -1,4 +1,5 @@
 const Koa = require('koa');
+const http = require('http');
 const mysql = require('mysql');
 const router = require('koa-router')();
 const bodyParser = require('koa-bodyparser');
@@ -11,6 +12,13 @@ const apiRouter = require('./router');
 const conf = require('./conf.js');
 
 const app = new Koa();
+const socket = new Koa();
+const server = http.createServer(socket.callback());
+const io = require('socket.io')(server);
+
+io.on('connection', function(socket){
+  console.log('a user connected');
+});
 
 app.use(cors());
 app.use(convert(historyApiFallback()));
@@ -38,7 +46,7 @@ app.use(async (ctx, next) => {
 });
 
 app.listen(conf.port,function(){
-  console.log("db success");
+  console.log("db success", conf.port);
 });
 // app.use(bodyParser.json())
 const connection = mysql.createConnection(conf.sql);
@@ -54,4 +62,5 @@ app.use(index);
 app.use(bodyParser());
 app.use(apiRouter.routes());
 
+server.listen(3002);
 app.listen(3000);
