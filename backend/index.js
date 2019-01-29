@@ -5,9 +5,9 @@ const router = require('koa-router')();
 const bodyParser = require('koa-bodyparser');
 const log4js = require('koa-log4')
 const cors = require('koa2-cors');
-const serve = require('koa-static')
-const convert = require('koa-convert');
-const historyApiFallback = require('koa-history-api-fallback');
+// const serve = require('koa-static')
+// const convert = require('koa-convert');
+// const historyApiFallback = require('koa-history-api-fallback');
 const apiRouter = require('./router');
 const conf = require('./conf.js');
 
@@ -21,8 +21,8 @@ io.on('connection', function(socket){
 });
 
 app.use(cors());
-app.use(convert(historyApiFallback()));
-app.use(serve(__dirname + '/public'))
+// app.use(convert(historyApiFallback()));
+// app.use(serve(__dirname + '/public'))
 
 // logger
 require('./log.js')  //引入（运行）日志配置文件， 生产日志目录及相应文件
@@ -45,10 +45,10 @@ app.use(async (ctx, next) => {
   ctx.set('X-Response-Time', `${ms}ms`);
 });
 
+
 app.listen(conf.port,function(){
   console.log("db success", conf.port);
 });
-// app.use(bodyParser.json())
 const connection = mysql.createConnection(conf.sql);
 connection.connect();
 
@@ -60,7 +60,8 @@ const index = router.get('/', ctx => {
 
 app.use(index);
 app.use(bodyParser());
-app.use(apiRouter.routes());
+// console.log('test3', apiRouter)
+app.use(apiRouter.routes()).use(apiRouter.allowedMethods());
 
 server.listen(3002);
 app.listen(3000);

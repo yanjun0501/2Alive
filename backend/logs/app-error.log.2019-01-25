@@ -1,0 +1,1 @@
+[2019-01-25T15:48:56.362][ERROR  14158  http] ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"

@@ -1,0 +1,18 @@
+[2019-01-25T15:33:45.660][ INFO  13767  startup] logs config finished!
+[2019-01-25T15:33:45.664][ INFO  13767  app] --------step into koa-------------
+[2019-01-25T15:35:54.357][ INFO  13767  http] ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T15:37:06.133][ INFO  13872  startup] logs config finished!
+[2019-01-25T15:37:06.137][ INFO  13872  app] --------step into koa-------------
+[2019-01-25T15:43:58.995][ INFO  14100  startup] logs config finished!
+[2019-01-25T15:43:58.999][ INFO  14100  app] --------step into koa-------------
+[2019-01-25T15:45:28.164][ INFO  14158  startup] logs config finished!
+[2019-01-25T15:45:28.168][ INFO  14158  app] --------step into koa-------------
+[2019-01-25T15:48:55.625][ INFO  14158  http] ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T15:49:02.677][ INFO  14158  http] ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T15:50:01.121][ INFO  14300  startup] logs config finished!
+[2019-01-25T15:50:01.125][ INFO  14300  app] --------step into koa-------------
+[2019-01-25T15:50:19.910][ INFO  14300  http] ::1 - - "GET / HTTP/1.1" 200 11 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-25T16:04:45.563][ INFO  14757  startup] logs config finished!
+[2019-01-25T16:04:45.568][ INFO  14757  app] --------step into koa-------------
+[2019-01-25T16:05:21.784][ INFO  14788  startup] logs config finished!
+[2019-01-25T16:05:21.787][ INFO  14788  app] --------step into koa-------------

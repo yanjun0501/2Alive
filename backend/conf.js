@@ -6,9 +6,11 @@ const sql = {
   database: 'sut_live_alpha'    //数据库名
 };
 
-const port = 3001;   //
+const port = 3001;
+const socket = 3002;
 
 module.exports = {
     sql,
-    port
+    port,
+    socket
 };
