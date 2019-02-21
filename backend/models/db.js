@@ -44,12 +44,27 @@ const user_sql = function( value ) {
 }
 
 const classes_sql = function( value ) {
-  const _sql = "select * from sut_live_class;"
+  const _sql = "select * from sut_live_class where type = 'parent';"
+  return query( _sql, value )
+}
+
+const findClass__sql = function( value ) {
+  const _sql = "select * from sut_live_class where type = 'child' and parentId = ?;"
+  return query( _sql, value )
+}
+
+const findItem_sql = function( value ) {
+  const _sql = "select * from sut_live_item where classId = ?;"
   return query( _sql, value )
 }
 
 const rooms_sql = function( value ) {
   const _sql = "select * from sut_live_room;"
+  return query( _sql, value )
+}
+
+const wave_sql = function( value ) {
+  const _sql = "select * from sut_live_wave where roomId = ?;"
   return query( _sql, value )
 }
 

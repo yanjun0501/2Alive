@@ -7,7 +7,7 @@
 
 <script>
 import Nav from '../components/nav.vue';
-import { mediaConfig } from '../routerConfig';
+import { liveConfig } from '../routerConfig';
 
 export default {
   components: {

@@ -4,6 +4,7 @@ const router = require('koa-router')();
 const userctrl = require('../controllers/users/UserController');
 const classctrl = require('../controllers/class/ClassController');
 const roomctrl = require('../controllers/rooms/RoomController');
+const mesctrl = require('../controllers/message/MessageController');
 
 router
   //user
@@ -17,4 +18,5 @@ router
   .get('/api/room/list', roomctrl.list)
   .get('/api/room/wave', roomctrl.wave)
 
+  .post('/api/message/emit', mesctrl.postMessage)
 module.exports = router;

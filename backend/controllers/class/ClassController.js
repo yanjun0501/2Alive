@@ -1,25 +1,42 @@
+const { 
+  classes_sql,
+  findClass_sql,
+  findItem_sql
+} = require('../../models/db');
+
 class ClassController {
   async allParentType(ctx, next) {
-    // 获取请求提交的数据
+    let data = null;
+    await classes_sql().then(res => {
+      data = res[0];
+    })
     ctx.body = {
-        status: true,
-        token: '123'
+      status: true,
+      data,
     }
   }
 
   async getChildTypeByParentId(ctx, next) {
-    // 获取请求提交的数据
+    let data = null;
+    let id = ctx.query.id;
+    await findClass_sql([id]).then(res => {
+      data = res[0];
+    })
     ctx.body = {
-        status: true,
-        token: '123'
+      status: true,
+      data,
     }
   }
 
   async getItemByTypeId(ctx, next) {
-    // 获取请求提交的数据
+    let data = null;
+    let id = ctx.query.id;
+    await findItem_sql([id]).then(res => {
+      data = res[0];
+    })
     ctx.body = {
-        status: true,
-        token: '123'
+      status: true,
+      data,
     }
   }
 }

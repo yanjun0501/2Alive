@@ -1,6 +1,6 @@
 const path = require('path')
 const log4js = require('koa-log4')
-const logDir = path.join(__dirname, 'logs')  //配置目标路径 logs
+const logDir = path.join(__dirname, '../logs')  //配置目标路径 logs
 /*生成logs目录*/
  try {
     require('fs').mkdirSync(logDir)  //新建目录， ./logs

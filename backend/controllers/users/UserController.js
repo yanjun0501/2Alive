@@ -6,6 +6,11 @@ const {
 
 class UserController {
   // 用户登录
+  /**
+   * 
+   * @param {Object} ctx 
+   * @param {*} next 
+   */
   async login(ctx, next) {
     let name = ctx.request.body.username || '',
       pwd = ctx.request.body.password || '';
@@ -23,15 +28,6 @@ class UserController {
 
   // 用户信息
   async info(ctx, next) {
-    // try {
-    //   await next()
-    //   if (ctx.status === 404) {
-    //     console.log(ctx.params, '11111', ctx.query, ctx.querystring, ctx.request.query, ctx.request.querystring)
-    //   }
-    // } catch (err) {
-    //   console.log(err)
-    // }
-    // console.log('test1', ctx, ctx.request)
     let name = ctx.query.username || ''
     let data = null;
     await user_sql([name]).then(res => {
@@ -41,8 +37,6 @@ class UserController {
       status: true,
       data,
     }
-    // return next();
-    console.log('test2', ctx, ctx.request)
   }
 }
 

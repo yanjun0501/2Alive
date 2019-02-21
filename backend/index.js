@@ -25,7 +25,7 @@ app.use(cors());
 // app.use(serve(__dirname + '/public'))
 
 // logger
-require('./log.js')  //引入（运行）日志配置文件， 生产日志目录及相应文件
+require('./models/log.js')  //引入（运行）日志配置文件， 生产日志目录及相应文件
 const logger = log4js.getLogger('app') //将当前文件日志命名为 app 
 logger.info('--------step into koa-------------')
 app.use(log4js.koaLogger(log4js.getLogger('http'), { level: 'auto' }))

@@ -1,17 +1,11 @@
+const IO = require('../../models/socket')
+
 class MessageController {
   async postMessage(ctx, next) {
-    // 获取请求提交的数据
-    ctx.body = {
-        status: true,
-        token: '123'
-    }
-  }
+    IO.emit('postMessage', ctx.request.body.message);
 
-  async historyMessage(ctx, next) {
-    // 获取请求提交的数据
     ctx.body = {
-        status: true,
-        token: '123'
+        status: true
     }
   }
 }
