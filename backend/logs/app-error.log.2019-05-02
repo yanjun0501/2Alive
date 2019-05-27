@@ -1,0 +1,3 @@
+[2019-05-02T15:34:44.721][ERROR  7652  http] ::1 - - "PUT /api/media/item?id=3 HTTP/1.1" 405 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:00:15.871][ERROR  11073  http] ::1 - - "GET /thumbnails HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:00:16.241][ERROR  11073  http] ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "http://localhost:3000/thumbnails" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"

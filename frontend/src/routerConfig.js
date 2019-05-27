@@ -1,11 +1,11 @@
-const mediaConfig = [
+export const mediaConfig = [
   {
     name: 'edu',
-    label: '教学视频',
+    label: '教学资源',
   },
   {
     name: 'acg',
-    label: '教学视频',
+    label: 'ACG',
   },
   {
     name: 'media',
@@ -13,23 +13,18 @@ const mediaConfig = [
   },
 ];
 
-const liveConfig = [
+export const liveConfig = [
   {
     name: 'edu',
     label: '在线课堂',
   },
   {
     name: 'game',
-    label: 'game',
+    label: '游戏直播',
   },
   {
     name: 'chat',
-    label: 'chat',
+    label: '聊天室',
   },
 ];
-
-export default {
-  mediaConfig,
-  liveConfig,
-};
 

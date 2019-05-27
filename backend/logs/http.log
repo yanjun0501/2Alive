@@ -1,0 +1,770 @@
+[2019-04-28T14:28:09.121] [INFO] startup - logs config finished!
+[2019-04-28T14:28:09.125] [INFO] app - --------step into koa-------------
+[2019-04-28T14:29:04.462] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:29:31.692] [ERROR] http - ::1 - - "GET /api/user/login?username=admin&password=123456 HTTP/1.1" 405 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:30:23.565] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:30:29.742] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:30:44.539] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:31:39.939] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:31:49.263] [INFO] startup - logs config finished!
+[2019-04-28T14:31:49.267] [INFO] app - --------step into koa-------------
+[2019-04-28T14:31:52.258] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:32:24.257] [INFO] startup - logs config finished!
+[2019-04-28T14:32:24.260] [INFO] app - --------step into koa-------------
+[2019-04-28T14:32:26.892] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:33:00.300] [INFO] startup - logs config finished!
+[2019-04-28T14:33:00.305] [INFO] app - --------step into koa-------------
+[2019-04-28T14:33:02.996] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:33:14.832] [INFO] startup - logs config finished!
+[2019-04-28T14:33:14.836] [INFO] app - --------step into koa-------------
+[2019-04-28T14:33:17.411] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:33:31.627] [INFO] startup - logs config finished!
+[2019-04-28T14:33:31.630] [INFO] app - --------step into koa-------------
+[2019-04-28T14:33:33.594] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:34:03.915] [INFO] startup - logs config finished!
+[2019-04-28T14:34:03.919] [INFO] app - --------step into koa-------------
+[2019-04-28T14:34:06.019] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:34:52.719] [INFO] startup - logs config finished!
+[2019-04-28T14:34:52.723] [INFO] app - --------step into koa-------------
+[2019-04-28T14:34:54.701] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:35:10.293] [INFO] startup - logs config finished!
+[2019-04-28T14:35:10.298] [INFO] app - --------step into koa-------------
+[2019-04-28T14:35:12.008] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:35:44.527] [INFO] startup - logs config finished!
+[2019-04-28T14:35:44.533] [INFO] app - --------step into koa-------------
+[2019-04-28T14:35:53.770] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:36:32.557] [INFO] startup - logs config finished!
+[2019-04-28T14:36:32.561] [INFO] app - --------step into koa-------------
+[2019-04-28T14:36:54.974] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:37:45.095] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:37:48.370] [INFO] startup - logs config finished!
+[2019-04-28T14:37:48.376] [INFO] app - --------step into koa-------------
+[2019-04-28T14:37:51.468] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:38:17.672] [INFO] startup - logs config finished!
+[2019-04-28T14:38:17.675] [INFO] app - --------step into koa-------------
+[2019-04-28T14:38:21.442] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:40:28.752] [INFO] startup - logs config finished!
+[2019-04-28T14:40:28.756] [INFO] app - --------step into koa-------------
+[2019-04-28T14:40:32.489] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:40:43.053] [INFO] startup - logs config finished!
+[2019-04-28T14:40:43.057] [INFO] app - --------step into koa-------------
+[2019-04-28T14:40:45.089] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:41:27.841] [INFO] startup - logs config finished!
+[2019-04-28T14:41:27.846] [INFO] app - --------step into koa-------------
+[2019-04-28T14:41:30.684] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:42:10.805] [INFO] startup - logs config finished!
+[2019-04-28T14:42:10.810] [INFO] app - --------step into koa-------------
+[2019-04-28T14:42:13.582] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:43:49.100] [INFO] startup - logs config finished!
+[2019-04-28T14:43:49.105] [INFO] app - --------step into koa-------------
+[2019-04-28T14:43:52.129] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:44:09.715] [INFO] startup - logs config finished!
+[2019-04-28T14:44:09.719] [INFO] app - --------step into koa-------------
+[2019-04-28T14:44:11.638] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:44:56.147] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:45:49.999] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:08.921] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:17.110] [INFO] startup - logs config finished!
+[2019-04-28T14:47:17.114] [INFO] app - --------step into koa-------------
+[2019-04-28T14:47:18.992] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:21.024] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:39.524] [INFO] startup - logs config finished!
+[2019-04-28T14:47:39.528] [INFO] app - --------step into koa-------------
+[2019-04-28T14:47:42.012] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:43.568] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:48:00.527] [INFO] startup - logs config finished!
+[2019-04-28T14:48:00.530] [INFO] app - --------step into koa-------------
+[2019-04-28T14:48:17.925] [INFO] startup - logs config finished!
+[2019-04-28T14:48:17.930] [INFO] app - --------step into koa-------------
+[2019-04-28T14:48:19.820] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 164 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:48:54.151] [INFO] startup - logs config finished!
+[2019-04-28T14:48:54.155] [INFO] app - --------step into koa-------------
+[2019-04-28T14:48:56.455] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 764 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:58:25.386] [INFO] startup - logs config finished!
+[2019-04-28T14:58:25.390] [INFO] app - --------step into koa-------------
+[2019-04-28T14:58:29.115] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:02:37.302] [INFO] startup - logs config finished!
+[2019-04-28T15:02:37.305] [INFO] app - --------step into koa-------------
+[2019-04-28T15:02:41.973] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:08:03.628] [INFO] startup - logs config finished!
+[2019-04-28T15:08:03.635] [INFO] app - --------step into koa-------------
+[2019-04-28T15:08:08.220] [ERROR] http - ::1 - - "POST /api/user/login HTTP/1.1" 404 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:11:12.140] [INFO] startup - logs config finished!
+[2019-04-28T15:11:12.144] [INFO] app - --------step into koa-------------
+[2019-04-28T15:12:02.940] [INFO] startup - logs config finished!
+[2019-04-28T15:12:02.944] [INFO] app - --------step into koa-------------
+[2019-04-28T15:12:32.503] [INFO] startup - logs config finished!
+[2019-04-28T15:12:32.507] [INFO] app - --------step into koa-------------
+[2019-04-28T15:13:08.356] [INFO] startup - logs config finished!
+[2019-04-28T15:13:08.360] [INFO] app - --------step into koa-------------
+[2019-04-28T15:13:11.216] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 208 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:31:47.847] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 131 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:31:58.523] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 131 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:34:14.470] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:35:06.177] [INFO] startup - logs config finished!
+[2019-04-28T15:35:06.181] [INFO] app - --------step into koa-------------
+[2019-04-28T15:35:08.108] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:35:40.972] [INFO] http - ::1 - - "GET /api/user/info?username=admin HTTP/1.1" 200 211 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:36:09.631] [INFO] startup - logs config finished!
+[2019-04-28T15:36:09.636] [INFO] app - --------step into koa-------------
+[2019-04-28T15:36:11.472] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:37:05.886] [INFO] startup - logs config finished!
+[2019-04-28T15:37:05.891] [INFO] app - --------step into koa-------------
+[2019-04-28T15:37:08.094] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 164 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:39:43.367] [INFO] http - ::1 - - "POST /api/user/add HTTP/1.1" 200 189 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:40:44.913] [INFO] http - ::1 - - "POST /api/user/add HTTP/1.1" 200 211 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:41:56.678] [INFO] http - ::1 - - "PUT /api/user/update HTTP/1.1" 200 211 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:42:22.097] [INFO] startup - logs config finished!
+[2019-04-28T15:42:22.101] [INFO] app - --------step into koa-------------
+[2019-04-28T15:43:03.155] [INFO] startup - logs config finished!
+[2019-04-28T15:43:03.159] [INFO] app - --------step into koa-------------
+[2019-04-28T15:43:07.128] [INFO] http - ::1 - - "PUT /api/user/update HTTP/1.1" 200 200 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:43:19.685] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 208 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:46:20.468] [INFO] startup - logs config finished!
+[2019-04-28T15:46:20.475] [INFO] app - --------step into koa-------------
+[2019-04-28T15:47:10.806] [INFO] startup - logs config finished!
+[2019-04-28T15:47:10.810] [INFO] app - --------step into koa-------------
+[2019-04-28T15:47:13.379] [INFO] http - ::1 - - "POST /api/room/add HTTP/1.1" 200 15 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:49:09.796] [INFO] http - ::1 - - "POST /api/room/add HTTP/1.1" 200 15 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:50:43.433] [INFO] startup - logs config finished!
+[2019-04-28T15:50:43.437] [INFO] app - --------step into koa-------------
+[2019-04-28T15:50:45.587] [INFO] http - ::1 - - "PUT /api/room/update HTTP/1.1" 200 15 "" "PostmanRuntime/7.2.0"
+[2019-05-02T14:27:04.275] [INFO] startup - logs config finished!
+[2019-05-02T14:27:04.280] [INFO] app - --------step into koa-------------
+[2019-05-02T14:45:31.154] [INFO] startup - logs config finished!
+[2019-05-02T14:45:31.157] [INFO] app - --------step into koa-------------
+[2019-05-02T14:51:20.160] [INFO] startup - logs config finished!
+[2019-05-02T14:51:20.164] [INFO] app - --------step into koa-------------
+[2019-05-02T14:52:54.413] [INFO] startup - logs config finished!
+[2019-05-02T14:52:54.417] [INFO] app - --------step into koa-------------
+[2019-05-02T14:59:19.924] [INFO] startup - logs config finished!
+[2019-05-02T14:59:19.928] [INFO] app - --------step into koa-------------
+[2019-05-02T15:03:34.794] [INFO] startup - logs config finished!
+[2019-05-02T15:03:34.798] [INFO] app - --------step into koa-------------
+[2019-05-02T15:03:38.610] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 208 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:05:14.379] [INFO] startup - logs config finished!
+[2019-05-02T15:05:14.383] [INFO] app - --------step into koa-------------
+[2019-05-02T15:05:18.987] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:09:20.898] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:10:38.564] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 764 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:10:40.524] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 764 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:33:12.930] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 764 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:34:15.134] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 764 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:34:26.666] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 764 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:34:36.671] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 764 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:34:39.098] [INFO] startup - logs config finished!
+[2019-05-02T15:34:39.102] [INFO] app - --------step into koa-------------
+[2019-05-02T15:34:42.790] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:34:44.721] [ERROR] http - ::1 - - "PUT /api/media/item?id=3 HTTP/1.1" 405 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:35:39.151] [INFO] startup - logs config finished!
+[2019-05-02T15:35:39.154] [INFO] app - --------step into koa-------------
+[2019-05-02T15:35:42.970] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:42:20.848] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T15:42:34.104] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T16:18:34.087] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T16:20:29.489] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T16:21:13.401] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T16:21:32.930] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T16:24:26.415] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T16:25:15.394] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 775 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T17:59:47.270] [INFO] startup - logs config finished!
+[2019-05-02T17:59:47.273] [INFO] app - --------step into koa-------------
+[2019-05-02T18:00:15.871] [ERROR] http - ::1 - - "GET /thumbnails HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:00:16.241] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "http://localhost:3000/thumbnails" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:09:41.449] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:09:45.105] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:10:45.803] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:12:03.437] [INFO] startup - logs config finished!
+[2019-05-02T18:12:03.444] [INFO] app - --------step into koa-------------
+[2019-05-02T18:12:06.970] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:16:53.370] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:19:59.534] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:20:14.438] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:20:45.680] [INFO] startup - logs config finished!
+[2019-05-02T18:20:45.683] [INFO] app - --------step into koa-------------
+[2019-05-02T18:23:37.448] [INFO] startup - logs config finished!
+[2019-05-02T18:23:37.452] [INFO] app - --------step into koa-------------
+[2019-05-02T18:24:53.803] [INFO] startup - logs config finished!
+[2019-05-02T18:24:53.806] [INFO] app - --------step into koa-------------
+[2019-05-02T18:24:59.959] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:25:04.515] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:26:12.394] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:28:55.235] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:29:38.832] [INFO] startup - logs config finished!
+[2019-05-02T18:29:38.836] [INFO] app - --------step into koa-------------
+[2019-05-02T18:29:43.182] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:29:45.430] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:36:03.313] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:36:31.759] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:46:20.870] [INFO] startup - logs config finished!
+[2019-05-02T18:46:20.873] [INFO] app - --------step into koa-------------
+[2019-05-02T18:46:33.352] [INFO] startup - logs config finished!
+[2019-05-02T18:46:33.357] [INFO] app - --------step into koa-------------
+[2019-05-02T18:46:38.253] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:46:41.593] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:56:10.727] [INFO] startup - logs config finished!
+[2019-05-02T18:56:10.730] [INFO] app - --------step into koa-------------
+[2019-05-02T18:56:23.426] [INFO] startup - logs config finished!
+[2019-05-02T18:56:23.431] [INFO] app - --------step into koa-------------
+[2019-05-02T18:56:34.784] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T18:56:46.790] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:01:30.755] [INFO] startup - logs config finished!
+[2019-05-02T19:01:30.758] [INFO] app - --------step into koa-------------
+[2019-05-02T19:02:12.160] [INFO] startup - logs config finished!
+[2019-05-02T19:02:12.165] [INFO] app - --------step into koa-------------
+[2019-05-02T19:02:16.175] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:02:19.730] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:05:16.815] [INFO] startup - logs config finished!
+[2019-05-02T19:05:16.821] [INFO] app - --------step into koa-------------
+[2019-05-02T19:05:22.371] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:05:22.564] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:05:27.145] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:08:31.538] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:09:03.840] [INFO] startup - logs config finished!
+[2019-05-02T19:09:03.845] [INFO] app - --------step into koa-------------
+[2019-05-02T19:09:07.782] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:09:07.799] [INFO] http - ::1 - - "GET /api/media/item?id= HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:09:12.664] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:12:20.798] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:25:23.045] [INFO] startup - logs config finished!
+[2019-05-02T19:25:23.048] [INFO] app - --------step into koa-------------
+[2019-05-02T19:25:44.174] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:25:44.388] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:25:53.080] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:34:29.198] [INFO] startup - logs config finished!
+[2019-05-02T19:34:29.202] [INFO] app - --------step into koa-------------
+[2019-05-02T19:34:38.648] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:34:38.780] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:34:41.339] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:35:53.497] [INFO] startup - logs config finished!
+[2019-05-02T19:35:53.500] [INFO] app - --------step into koa-------------
+[2019-05-02T19:41:13.141] [INFO] startup - logs config finished!
+[2019-05-02T19:41:13.145] [INFO] app - --------step into koa-------------
+[2019-05-02T19:41:15.233] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:41:15.418] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:41:18.081] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:43:11.108] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:43:11.116] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:44:16.755] [INFO] http - ::1 - - "GET /api/media/item?id= HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:44:16.765] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:44:42.385] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:44:42.582] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:45:41.680] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:45:42.665] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:45:50.223] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:45:50.382] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:46:28.555] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:46:28.765] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:46:32.065] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:47:34.266] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:50:13.903] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:50:13.908] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:50:16.064] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:51:18.867] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:51:18.873] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:51:22.183] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:53:45.420] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:53:45.611] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:53:47.397] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:54:59.306] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:54:59.324] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:56:15.804] [INFO] http - ::1 - - "GET /api/media/item?id= HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:56:15.810] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T19:56:23.973] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T21:53:21.676] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T21:53:21.689] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T21:53:25.652] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:03:07.240] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:03:07.245] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:03:12.334] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:05:23.243] [INFO] startup - logs config finished!
+[2019-05-02T22:05:23.246] [INFO] app - --------step into koa-------------
+[2019-05-02T22:05:43.729] [INFO] startup - logs config finished!
+[2019-05-02T22:05:43.732] [INFO] app - --------step into koa-------------
+[2019-05-02T22:07:57.269] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:07:57.274] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:07:59.789] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:12:30.038] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:12:30.050] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:20.006] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:20.356] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:38.469] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:38.634] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:39.580] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:39.723] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:40.627] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:40.743] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:42.663] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 205 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:42.749] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:13:47.934] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:16:32.516] [INFO] startup - logs config finished!
+[2019-05-02T22:16:32.519] [INFO] app - --------step into koa-------------
+[2019-05-02T22:16:47.517] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:16:47.718] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:17:12.559] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:17:54.021] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:17:54.026] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:18:31.398] [INFO] http - ::1 - - "GET /api/media/item?id= HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:18:31.404] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:18:34.768] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:18:40.728] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:22:12.690] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 16 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:22:19.561] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:22:19.792] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:22:23.084] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:27:38.496] [INFO] startup - logs config finished!
+[2019-05-02T22:27:38.502] [INFO] app - --------step into koa-------------
+[2019-05-02T22:29:41.393] [INFO] startup - logs config finished!
+[2019-05-02T22:29:41.396] [INFO] app - --------step into koa-------------
+[2019-05-02T22:29:45.871] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:29:45.877] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:29:48.329] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:29:48.483] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:29:48.487] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:29:51.406] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:30:47.827] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:30:47.995] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T22:30:50.041] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T23:14:51.745] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T23:14:55.732] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T23:14:57.821] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-02T23:14:59.038] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T11:49:51.693] [INFO] startup - logs config finished!
+[2019-05-03T11:49:51.809] [INFO] app - --------step into koa-------------
+[2019-05-03T11:52:20.947] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T11:52:21.474] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T11:52:24.304] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T11:57:12.691] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T11:57:12.698] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T11:57:30.563] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T12:01:58.088] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T12:01:58.568] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T12:02:00.347] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T18:11:52.373] [INFO] startup - logs config finished!
+[2019-05-03T18:11:52.376] [INFO] app - --------step into koa-------------
+[2019-05-03T18:12:00.236] [INFO] http - ::1 - - "POST /api/user/add HTTP/1.1" 200 197 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T18:12:00.425] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T18:12:56.545] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T18:13:19.051] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T18:13:19.232] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T18:13:20.385] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T19:25:19.643] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T19:25:19.764] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T19:27:57.264] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T19:27:57.439] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T20:01:50.484] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-03T20:01:51.574] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+[2019-05-10T14:56:49.513] [INFO] startup - logs config finished!
+[2019-05-10T14:56:49.518] [INFO] app - --------step into koa-------------
+[2019-05-10T14:57:49.849] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T14:57:50.011] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T14:58:00.721] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 120 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T14:59:30.933] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 120 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:00:20.262] [INFO] startup - logs config finished!
+[2019-05-10T15:00:20.267] [INFO] app - --------step into koa-------------
+[2019-05-10T15:00:24.886] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:06:34.492] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:06:56.944] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:11:19.833] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:13:25.431] [ERROR] http - ::1 - - "POST /api/room/findid=2 HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:13:49.894] [ERROR] http - ::1 - - "POST /api/room/find?id=2 HTTP/1.1" 405 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:13:49.900] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:14:05.390] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:14:14.988] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:15:01.747] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:15:10.824] [INFO] startup - logs config finished!
+[2019-05-10T15:15:10.828] [INFO] app - --------step into koa-------------
+[2019-05-10T15:15:13.678] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:15:13.682] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 157 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:16:22.373] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 123 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:16:22.377] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:17:34.853] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:17:34.993] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:17:37.055] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:19:47.001] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:19:47.641] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 260 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:19:49.714] [INFO] http - ::1 - - "GET /api/room/find?id=1 HTTP/1.1" 200 154 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:20:43.931] [ERROR] http - ::1 - - "DELETE /api/room/delete HTTP/1.1" 405 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:21:50.901] [ERROR] http - ::1 - - "DELETE /api/room/delete HTTP/1.1" 405 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:26:13.292] [INFO] startup - logs config finished!
+[2019-05-10T15:26:13.297] [INFO] app - --------step into koa-------------
+[2019-05-10T15:26:24.610] [INFO] http - ::1 - - "POST /api/room/add HTTP/1.1" 200 150 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:30:01.662] [INFO] http - ::1 - - "POST /api/room/add HTTP/1.1" 200 150 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:31:05.788] [ERROR] http - ::1 - - "DELETE /api/room/delete HTTP/1.1" 405 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:31:39.217] [INFO] startup - logs config finished!
+[2019-05-10T15:31:39.221] [INFO] app - --------step into koa-------------
+[2019-05-10T15:31:41.841] [INFO] http - ::1 - - "DELETE /api/room/delete HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:52:07.259] [INFO] startup - logs config finished!
+[2019-05-10T15:52:07.262] [INFO] app - --------step into koa-------------
+[2019-05-10T15:52:09.682] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 391 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:52:19.179] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=rtmp HTTP/1.1" 200 150 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:53:36.782] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 391 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:53:39.250] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=rtmp HTTP/1.1" 200 150 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:57:51.833] [INFO] http - ::1 - - "PUT /api/room/update HTTP/1.1" 200 151 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:57:51.998] [INFO] http - ::1 - - "PUT /api/room/update HTTP/1.1" 200 151 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:59:11.065] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 392 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T15:59:13.287] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=webrtc HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:03:59.319] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 392 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:04:02.311] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=webrtc HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:06:16.466] [INFO] http - ::1 - - "DELETE /api/room/delete HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:06:51.594] [INFO] http - ::1 - - "DELETE /api/room/delete HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:07:29.063] [INFO] http - ::1 - - "POST /api/room/add HTTP/1.1" 200 114 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:08:25.663] [INFO] http - ::1 - - "POST /api/room/add HTTP/1.1" 200 140 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:10:23.819] [INFO] http - ::1 - - "POST /api/room/add HTTP/1.1" 200 142 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:10:57.075] [INFO] http - ::1 - - "PUT /api/room/update HTTP/1.1" 200 142 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:16:24.200] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 515 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:16:26.843] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=webrtc HTTP/1.1" 200 142 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:16:35.660] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 515 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:16:37.651] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=webrtc HTTP/1.1" 200 142 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:31:50.466] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:31:50.711] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:31:52.610] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 515 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:31:56.320] [INFO] http - ::1 - - "GET /api/room/find?id=10 HTTP/1.1" 200 142 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:32:58.471] [INFO] http - ::1 - - "GET /api/room/find?id=10 HTTP/1.1" 200 142 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:32:58.481] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 515 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:38:05.263] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 515 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:38:17.436] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:41:51.887] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:41:54.020] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:42:37.181] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:42:38.900] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:42:52.254] [INFO] http - ::1 - - "GET /api/room/find?id=10 HTTP/1.1" 200 142 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:42:52.283] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:42:57.761] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:42:58.797] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:43:02.368] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:46:02.806] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:46:04.895] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:50:06.157] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:50:06.506] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:50:08.124] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:50:11.207] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:50:27.110] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:50:32.752] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:53:34.650] [INFO] startup - logs config finished!
+[2019-05-10T16:53:34.658] [INFO] app - --------step into koa-------------
+[2019-05-10T16:53:48.872] [INFO] startup - logs config finished!
+[2019-05-10T16:53:48.889] [INFO] app - --------step into koa-------------
+[2019-05-10T16:53:54.362] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:53:54.952] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:54:00.716] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:54:01.198] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:54:03.331] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:54:09.818] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:54:17.524] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:54:38.314] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:54:41.342] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:54:50.472] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:55:16.650] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:55:20.603] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:56:41.807] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:56:42.238] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:56:48.976] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:56:49.377] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:56:52.383] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:56:54.893] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:00.192] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:01.627] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:06.186] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:07.324] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:10.152] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:27.901] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:30.260] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:44.709] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:45.005] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:46.859] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:57:49.240] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:58:12.064] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:58:12.267] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:58:15.824] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:58:17.863] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:59:39.829] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:59:40.113] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:59:41.480] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T16:59:44.534] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:00:54.761] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:00:55.022] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:00:57.134] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:00:59.430] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:02:23.552] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:02:32.175] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:02:32.412] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:02:34.297] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:02:36.567] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:03.766] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:11.196] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:11.426] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:12.906] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:14.728] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:26.332] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:26.697] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:27.650] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:04:29.077] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:07:52.362] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:07:52.668] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:07:54.467] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:07:56.801] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:08:05.926] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:08:06.421] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:08:07.842] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:08:09.234] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:09:26.590] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:09:26.955] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:09:28.435] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:09:30.562] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:09:45.585] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:09:45.953] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:09:48.303] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:09:50.160] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:11:19.861] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:11:20.154] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:11:21.620] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:11:23.528] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:13:32.792] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:13:33.017] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:13:34.360] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:13:36.150] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:15:55.022] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:15:55.391] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:15:56.918] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:15:59.294] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:16:09.423] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:16:09.848] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:16:13.892] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:16:15.322] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:17:41.479] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:17:54.044] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:17:54.804] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:17:55.867] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:19:22.971] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:19:23.260] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:19:24.418] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:19:26.576] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:19:36.253] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:19:36.620] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:19:37.839] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:19:40.333] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:20:38.271] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:20:38.699] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:20:40.158] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:20:41.670] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:15.184] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:15.199] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:22.200] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:22.808] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:24.054] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:25.947] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:35.744] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:36.222] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:37.364] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:21:38.506] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:23:19.823] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:23:22.483] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:23:23.266] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:23:24.240] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:25:12.639] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:25:12.648] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:27:36.080] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:27:36.528] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:27:38.275] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:27:39.662] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:29:16.369] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:29:18.094] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:29:19.351] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:06.510] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:06.517] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:06.679] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:06.701] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:27.298] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:27.654] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:29.292] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:41.383] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:42.082] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:43.177] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:57.321] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:30:58.945] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:13.911] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:14.274] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:15.599] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:27.338] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:30.329] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=rtmp HTTP/1.1" 200 154 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:52.744] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:52.750] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:53.733] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:31:55.456] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=rtmp HTTP/1.1" 200 151 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:36:34.260] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:36:37.709] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=webrtc HTTP/1.1" 200 142 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:36:45.675] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:36:56.773] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:36:57.021] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:36:58.674] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:00.661] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:03.067] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:05.735] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=rtmp HTTP/1.1" 200 154 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:35.526] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:35.767] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:37.134] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:39.574] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:41.573] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:43.501] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=rtmp HTTP/1.1" 200 154 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:57.010] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:37:58.822] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=rtmp HTTP/1.1" 200 154 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:38:00.353] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:38:01.787] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:38:04.461] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:38:05.810] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:38:07.828] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=rtmp HTTP/1.1" 200 154 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:38:12.997] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:38:17.238] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:40:36.347] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:42:29.892] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:42:32.701] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=rtmp HTTP/1.1" 200 154 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:42:50.480] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 541 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:42:52.744] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=rtmp HTTP/1.1" 200 154 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:42:55.851] [INFO] http - ::1 - - "DELETE /api/room/delete HTTP/1.1" 200 12 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T17:43:17.080] [INFO] startup - logs config finished!
+[2019-05-10T17:43:17.095] [INFO] app - --------step into koa-------------
+[2019-05-10T20:49:10.081] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:49:10.153] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:49:17.289] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:49:40.478] [INFO] http - ::1 - - "GET /api/media/item?id=3 HTTP/1.1" 200 173 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:49:40.482] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:50:23.368] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:50:23.970] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:50:25.659] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:50:37.096] [INFO] http - ::1 - - "GET /api/media/item?id=4 HTTP/1.1" 200 190 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:52:41.444] [INFO] http - ::1 - - "GET /api/media/item?id=2 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:08.746] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:08.826] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:12.209] [INFO] http - ::1 - - "GET /api/media/item?id=2 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:29.381] [INFO] http - ::1 - - "GET /api/media/item?id=2 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:29.386] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:41.403] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:41.471] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:46.971] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:47.050] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:49.911] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:53:52.259] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:32.768] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:32.773] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:36.933] [INFO] http - ::1 - - "GET /api/media/item?id= HTTP/1.1" 200 12 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:36.936] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:43.215] [INFO] startup - logs config finished!
+[2019-05-10T20:57:43.218] [INFO] app - --------step into koa-------------
+[2019-05-10T20:57:44.643] [INFO] http - ::1 - - "GET /api/media/item?id= HTTP/1.1" 200 12 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:44.649] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:55.025] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:55.984] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:57:58.524] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:58:04.144] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:58:04.239] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T20:58:05.945] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:02:25.561] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:02:25.671] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:02:27.670] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:04:59.022] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:04:59.144] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:05:00.903] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:06:47.887] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:06:48.010] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:06:49.907] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:08:27.224] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:08:27.344] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:08:29.127] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:08:29.217] [ERROR] http - ::1 - - "GET /undefinedv3/?id=undefined HTTP/1.1" 404 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:08:34.334] [ERROR] http - ::1 - - "POST /undefinedv3/ HTTP/1.1" 404 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:11:25.061] [INFO] startup - logs config finished!
+[2019-05-10T21:11:25.066] [INFO] app - --------step into koa-------------
+[2019-05-10T21:11:31.778] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:11:31.896] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:11:34.068] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:12:40.908] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:12:40.990] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:12:45.411] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:13:23.647] [INFO] http - ::1 - - "POST /api/user/add HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:13:23.790] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:13:30.293] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:13:33.789] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:13:42.269] [INFO] http - ::1 - - "GET /api/room/user?user=ch1&type=webrtc HTTP/1.1" 200 12 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:13:54.371] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:13:56.860] [INFO] http - ::1 - - "GET /api/room/user?user=ch1&type=rtmp HTTP/1.1" 200 12 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:43:47.431] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:43:47.562] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:43:49.622] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:44:06.667] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:44:06.735] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:44:12.755] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:44:45.147] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:44:45.287] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:44:47.228] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:45:01.354] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-10T21:45:07.268] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T10:41:04.066] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T10:41:04.158] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T10:41:05.859] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T10:41:07.839] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T11:11:51.527] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T11:11:51.599] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T11:11:53.804] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T11:12:02.289] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T11:12:04.525] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T11:12:11.630] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:05.384] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:05.459] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:06.503] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:08.352] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:31.476] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:31.550] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:33.420] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:35.885] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:07:38.639] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:10:03.052] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:10:03.130] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:10:04.831] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T13:10:06.667] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:05:11.635] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:05:11.764] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:05:26.918] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:05:42.448] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:05:42.512] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:05:45.564] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:07:16.185] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:07:16.249] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:07:17.709] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:07:39.007] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:02.196] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:02.295] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:03.497] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:10.015] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:20.456] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:21.057] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:41.170] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:41.247] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:42.411] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:08:43.308] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:09:20.973] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:09:25.079] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:09:25.138] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:09:26.891] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:09:28.782] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=rtmp HTTP/1.1" 200 12 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:10:00.438] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:10:00.663] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:10:05.386] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-11T14:10:10.562] [INFO] http - ::1 - - "GET /api/room/find?id=7 HTTP/1.1" 200 151 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+[2019-05-27T11:40:53.838] [INFO] startup - logs config finished!
+[2019-05-27T11:40:53.841] [INFO] app - --------step into koa-------------
+[2019-05-27T11:42:21.761] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 199 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:42:21.877] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:42:50.714] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:43:06.528] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 16 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:43:09.635] [INFO] http - ::1 - - "POST /api/user/login HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:43:09.719] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:43:12.791] [INFO] http - ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 193 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:45:38.293] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:46:12.013] [INFO] http - ::1 - - "GET /api/room/find?id=2 HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:46:27.979] [INFO] http - ::1 - - "GET /api/room/user?user=admin&type=webrtc HTTP/1.1" 200 149 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:47:10.878] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:47:13.018] [INFO] http - ::1 - - "GET /api/room/user?user=test&type=rtmp HTTP/1.1" 200 151 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:47:37.939] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:47:40.517] [INFO] http - ::1 - - "GET /api/media/list HTTP/1.1" 200 865 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-05-27T11:47:45.165] [INFO] http - ::1 - - "GET /api/room/list HTTP/1.1" 200 406 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"

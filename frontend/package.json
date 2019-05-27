@@ -3,16 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "serve": "vue-cli-service serve --mode development",
+    "build": "vue-cli-service build --mode production",
+    "lint": "vue-cli-service lint --mode production"
   },
   "dependencies": {
+    "aplayer": "^1.10.1",
+    "axios": "^0.18.0",
+    "dplayer": "^1.25.0",
     "element-ui": "^2.5.4",
+    "hls.js": "^0.12.4",
+    "peerjs": "^1.0.0",
+    "querystring": "^0.2.0",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
     "vue": "^2.5.21",
+    "vue-dplayer": "0.0.10",
     "vue-router": "^3.0.1",
+    "vue-video-player": "^5.0.2",
     "vuex": "^3.0.1"
   },
   "devDependencies": {

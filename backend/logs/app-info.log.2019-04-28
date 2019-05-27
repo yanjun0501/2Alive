@@ -1,0 +1,104 @@
+[2019-04-28T14:28:09.121][ INFO  99324  startup] logs config finished!
+[2019-04-28T14:28:09.125][ INFO  99324  app] --------step into koa-------------
+[2019-04-28T14:31:49.263][ INFO  99538  startup] logs config finished!
+[2019-04-28T14:31:49.267][ INFO  99538  app] --------step into koa-------------
+[2019-04-28T14:32:24.257][ INFO  99643  startup] logs config finished!
+[2019-04-28T14:32:24.260][ INFO  99643  app] --------step into koa-------------
+[2019-04-28T14:33:00.300][ INFO  99743  startup] logs config finished!
+[2019-04-28T14:33:00.305][ INFO  99743  app] --------step into koa-------------
+[2019-04-28T14:33:14.832][ INFO  99834  startup] logs config finished!
+[2019-04-28T14:33:14.836][ INFO  99834  app] --------step into koa-------------
+[2019-04-28T14:33:31.627][ INFO  99932  startup] logs config finished!
+[2019-04-28T14:33:31.630][ INFO  99932  app] --------step into koa-------------
+[2019-04-28T14:34:03.915][ INFO  153  startup] logs config finished!
+[2019-04-28T14:34:03.919][ INFO  153  app] --------step into koa-------------
+[2019-04-28T14:34:52.719][ INFO  286  startup] logs config finished!
+[2019-04-28T14:34:52.723][ INFO  286  app] --------step into koa-------------
+[2019-04-28T14:35:10.293][ INFO  403  startup] logs config finished!
+[2019-04-28T14:35:10.298][ INFO  403  app] --------step into koa-------------
+[2019-04-28T14:35:44.527][ INFO  509  startup] logs config finished!
+[2019-04-28T14:35:44.533][ INFO  509  app] --------step into koa-------------
+[2019-04-28T14:36:32.557][ INFO  637  startup] logs config finished!
+[2019-04-28T14:36:32.561][ INFO  637  app] --------step into koa-------------
+[2019-04-28T14:37:48.370][ INFO  792  startup] logs config finished!
+[2019-04-28T14:37:48.376][ INFO  792  app] --------step into koa-------------
+[2019-04-28T14:38:17.672][ INFO  890  startup] logs config finished!
+[2019-04-28T14:38:17.675][ INFO  890  app] --------step into koa-------------
+[2019-04-28T14:40:28.752][ INFO  1225  startup] logs config finished!
+[2019-04-28T14:40:28.756][ INFO  1225  app] --------step into koa-------------
+[2019-04-28T14:40:43.053][ INFO  1306  startup] logs config finished!
+[2019-04-28T14:40:43.057][ INFO  1306  app] --------step into koa-------------
+[2019-04-28T14:41:27.841][ INFO  1413  startup] logs config finished!
+[2019-04-28T14:41:27.846][ INFO  1413  app] --------step into koa-------------
+[2019-04-28T14:42:10.805][ INFO  1523  startup] logs config finished!
+[2019-04-28T14:42:10.810][ INFO  1523  app] --------step into koa-------------
+[2019-04-28T14:43:49.100][ INFO  1661  startup] logs config finished!
+[2019-04-28T14:43:49.105][ INFO  1661  app] --------step into koa-------------
+[2019-04-28T14:44:09.715][ INFO  1758  startup] logs config finished!
+[2019-04-28T14:44:09.719][ INFO  1758  app] --------step into koa-------------
+[2019-04-28T14:44:11.638][ INFO  1758  http] ::1 - - "POST /api/user/login HTTP/1.1" 200 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:44:56.147][ INFO  1758  http] ::1 - - "POST /api/user/login HTTP/1.1" 200 - "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:45:49.999][ INFO  1758  http] ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:08.921][ INFO  1758  http] ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:17.110][ INFO  1939  startup] logs config finished!
+[2019-04-28T14:47:17.114][ INFO  1939  app] --------step into koa-------------
+[2019-04-28T14:47:18.992][ INFO  1939  http] ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:21.024][ INFO  1939  http] ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:39.524][ INFO  2038  startup] logs config finished!
+[2019-04-28T14:47:39.528][ INFO  2038  app] --------step into koa-------------
+[2019-04-28T14:47:42.012][ INFO  2038  http] ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:47:43.568][ INFO  2038  http] ::1 - - "GET /api/media/list HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:48:00.527][ INFO  2144  startup] logs config finished!
+[2019-04-28T14:48:00.530][ INFO  2144  app] --------step into koa-------------
+[2019-04-28T14:48:17.925][ INFO  2237  startup] logs config finished!
+[2019-04-28T14:48:17.930][ INFO  2237  app] --------step into koa-------------
+[2019-04-28T14:48:19.820][ INFO  2237  http] ::1 - - "GET /api/media/list HTTP/1.1" 200 164 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:48:54.151][ INFO  2352  startup] logs config finished!
+[2019-04-28T14:48:54.155][ INFO  2352  app] --------step into koa-------------
+[2019-04-28T14:48:56.455][ INFO  2352  http] ::1 - - "GET /api/media/list HTTP/1.1" 200 764 "" "PostmanRuntime/7.2.0"
+[2019-04-28T14:58:25.386][ INFO  2717  startup] logs config finished!
+[2019-04-28T14:58:25.390][ INFO  2717  app] --------step into koa-------------
+[2019-04-28T15:02:37.302][ INFO  2917  startup] logs config finished!
+[2019-04-28T15:02:37.305][ INFO  2917  app] --------step into koa-------------
+[2019-04-28T15:08:03.628][ INFO  3155  startup] logs config finished!
+[2019-04-28T15:08:03.635][ INFO  3155  app] --------step into koa-------------
+[2019-04-28T15:11:12.140][ INFO  3334  startup] logs config finished!
+[2019-04-28T15:11:12.144][ INFO  3334  app] --------step into koa-------------
+[2019-04-28T15:12:02.940][ INFO  3447  startup] logs config finished!
+[2019-04-28T15:12:02.944][ INFO  3447  app] --------step into koa-------------
+[2019-04-28T15:12:32.503][ INFO  3545  startup] logs config finished!
+[2019-04-28T15:12:32.507][ INFO  3545  app] --------step into koa-------------
+[2019-04-28T15:13:08.356][ INFO  3652  startup] logs config finished!
+[2019-04-28T15:13:08.360][ INFO  3652  app] --------step into koa-------------
+[2019-04-28T15:13:11.216][ INFO  3652  http] ::1 - - "POST /api/user/login HTTP/1.1" 200 208 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:31:47.847][ INFO  3652  http] ::1 - - "GET /api/room/list HTTP/1.1" 200 131 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:31:58.523][ INFO  3652  http] ::1 - - "GET /api/room/list HTTP/1.1" 200 131 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:34:14.470][ INFO  3652  http] ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:35:06.177][ INFO  4530  startup] logs config finished!
+[2019-04-28T15:35:06.181][ INFO  4530  app] --------step into koa-------------
+[2019-04-28T15:35:08.108][ INFO  4530  http] ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:35:40.972][ INFO  4530  http] ::1 - - "GET /api/user/info?username=admin HTTP/1.1" 200 211 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:36:09.631][ INFO  4640  startup] logs config finished!
+[2019-04-28T15:36:09.636][ INFO  4640  app] --------step into koa-------------
+[2019-04-28T15:36:11.472][ INFO  4640  http] ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 2 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:37:05.886][ INFO  4767  startup] logs config finished!
+[2019-04-28T15:37:05.891][ INFO  4767  app] --------step into koa-------------
+[2019-04-28T15:37:08.094][ INFO  4767  http] ::1 - - "GET /api/media/item?id=1 HTTP/1.1" 200 164 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:39:43.367][ INFO  4767  http] ::1 - - "POST /api/user/add HTTP/1.1" 200 189 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:40:44.913][ INFO  4767  http] ::1 - - "POST /api/user/add HTTP/1.1" 200 211 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:41:56.678][ INFO  4767  http] ::1 - - "PUT /api/user/update HTTP/1.1" 200 211 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:42:22.097][ INFO  5017  startup] logs config finished!
+[2019-04-28T15:42:22.101][ INFO  5017  app] --------step into koa-------------
+[2019-04-28T15:43:03.155][ INFO  5113  startup] logs config finished!
+[2019-04-28T15:43:03.159][ INFO  5113  app] --------step into koa-------------
+[2019-04-28T15:43:07.128][ INFO  5113  http] ::1 - - "PUT /api/user/update HTTP/1.1" 200 200 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:43:19.685][ INFO  5113  http] ::1 - - "POST /api/user/login HTTP/1.1" 200 208 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:46:20.468][ INFO  5297  startup] logs config finished!
+[2019-04-28T15:46:20.475][ INFO  5297  app] --------step into koa-------------
+[2019-04-28T15:47:10.806][ INFO  5411  startup] logs config finished!
+[2019-04-28T15:47:10.810][ INFO  5411  app] --------step into koa-------------
+[2019-04-28T15:47:13.379][ INFO  5411  http] ::1 - - "POST /api/room/add HTTP/1.1" 200 15 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:49:09.796][ INFO  5411  http] ::1 - - "POST /api/room/add HTTP/1.1" 200 15 "" "PostmanRuntime/7.2.0"
+[2019-04-28T15:50:43.433][ INFO  5601  startup] logs config finished!
+[2019-04-28T15:50:43.437][ INFO  5601  app] --------step into koa-------------
+[2019-04-28T15:50:45.587][ INFO  5601  http] ::1 - - "PUT /api/room/update HTTP/1.1" 200 15 "" "PostmanRuntime/7.2.0"

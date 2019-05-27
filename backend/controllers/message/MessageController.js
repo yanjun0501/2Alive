@@ -1,13 +1,13 @@
-const IO = require('../../models/socket')
+// const IO = require('../../models/socket')
 
-class MessageController {
-  async postMessage(ctx, next) {
-    IO.emit('postMessage', ctx.request.body.message);
+// class MessageController {
+//   async postMessage(ctx, next) {
+//     IO.emit('postMessage', ctx.request.body.message);
 
-    ctx.body = {
-        status: true
-    }
-  }
-}
+//     ctx.body = {
+//         status: true
+//     }
+//   }
+// }
 
-module.exports = new MessageController();
+// module.exports = new MessageController();

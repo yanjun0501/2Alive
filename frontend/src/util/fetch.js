@@ -7,7 +7,7 @@ export default function fetch(event, data = {}, {
     socket.emit(event, data, (res) => {
       if (typeof res === 'string') {
         if (toast) {
-          console.log(res);
+          // console.log(res);
         }
         resolve([res, null]);
       } else {

@@ -8,27 +8,28 @@ export default new Router({
     {
       path: '/',
       name: 'index',
+      redirect: '/login',
       component: () => import('./App.vue'),
       children: [
         {
-          path: '/home',
-          name: 'home',
-          component: () => import('./views/home.vue'),
+          path: '/login',
+          name: 'login',
+          component: () => import('./views/login.vue'),
+        },
+        {
+          path: '/media',
+          name: 'media',
+          component: () => import('./views/media.vue'),
           children: [
             {
-              path: '/home/edu',
-              name: 'edu',
-              component: () => import('./views/class/edu.vue'),
+              path: '/media/list',
+              name: 'mediaList',
+              component: () => import('./views/media/list.vue'),
             },
             {
-              path: '/home/acg',
-              name: 'live',
-              component: () => import('./views/class/acg.vue'),
-            },
-            {
-              path: '/home/other',
-              name: 'media',
-              component: () => import('./views/class/media.vue'),
+              path: '/media/detail',
+              name: 'mediaDetail',
+              component: () => import('./views/media/detail.vue'),
             },
           ],
         },
@@ -38,19 +39,36 @@ export default new Router({
           component: () => import('./views/live.vue'),
           children: [
             {
-              path: '/live/edu',
-              name: 'edu',
-              component: () => import('./views/class/edu.vue'),
+              path: '/live/list',
+              name: 'liveList',
+              component: () => import('./views/live/list.vue'),
             },
             {
-              path: '/live/acg',
-              name: 'live',
-              component: () => import('./views/class/acg.vue'),
+              path: '/live/detail',
+              name: 'liveDetail',
+              component: () => import('./views/live/detail.vue'),
             },
             {
-              path: '/live/other',
-              name: 'media',
-              component: () => import('./views/class/media.vue'),
+              path: '/live/webrtc',
+              name: 'liveWebRTC',
+              component: () => import('./views/live/webrtc.vue'),
+            },
+          ],
+        },
+        {
+          path: '/setting',
+          name: 'setting',
+          component: () => import('./views/setting.vue'),
+          children: [
+            {
+              path: '/setting/webrtc',
+              name: 'liveWebRtc',
+              component: () => import('./views/setting/webrtc.vue'),
+            },
+            {
+              path: '/setting/rtmp',
+              name: 'liveRtmp',
+              component: () => import('./views/setting/rtmp.vue'),
             },
           ],
         },

@@ -35,47 +35,72 @@ let createTable = function( sql ) {
 
 const login_sql = function( value ) {
   const _sql = "select password from sut_live_account where username = ?;"
-  return query( _sql, value )
+  return query( _sql, value );
 }
 
 const user_sql = function( value ) {
   const _sql = "select * from sut_live_account where username = ?;"
-  return query( _sql, value )
+  return query( _sql, value );
 }
 
-const classes_sql = function( value ) {
-  const _sql = "select * from sut_live_class where type = 'parent';"
-  return query( _sql, value )
-}
-
-const findClass__sql = function( value ) {
-  const _sql = "select * from sut_live_class where type = 'child' and parentId = ?;"
-  return query( _sql, value )
+const role_sql = function( value ) {
+  const _sql = "select role from sut_live_role where id = ?;"
+  return query( _sql, value );
 }
 
 const findItem_sql = function( value ) {
-  const _sql = "select * from sut_live_item where classId = ?;"
-  return query( _sql, value )
+  const _sql = "select * from sut_live_media where item_id = ?;"
+  return query( _sql, value );
+}
+
+const room_info_name = function( value ) {
+  const _sql = "select * from sut_live_room where room_name = ?;"
+  return query( _sql, value );
+}
+
+const room_user = function( value ) {
+  const _sql = "select * from sut_live_room where owner_name = ? and type = ?;"
+  return query( _sql, value );
+}
+
+const media_sql = function( value ) {
+  const _sql = "select * from sut_live_media;"
+  return query( _sql, value );
 }
 
 const rooms_sql = function( value ) {
   const _sql = "select * from sut_live_room;"
-  return query( _sql, value )
-}
-
-const wave_sql = function( value ) {
-  const _sql = "select * from sut_live_wave where roomId = ?;"
-  return query( _sql, value )
+  return query( _sql, value );
 }
 
 const add_room = function( value ) {
-  const _sql = "insert into sut_live_room set room_name = ?, user_id = ?;"
-  return query( _sql, value )
+  const _sql = "insert into sut_live_room(room_name, stream, type, owner_name) values (?, ?, ?, ?);"
+  return query( _sql, value );
+}
+
+const room_info = function( value ) {
+  const _sql = "select * from sut_live_room where id = ?;"
+  return query( _sql, value );
+}
+
+const update_room = function( value ) {
+  const _sql = "update sut_live_room  set room_name = ? where id = ?;"
+  return query( _sql, value );
+}
+
+const add_user = function( value ) {
+  const _sql = "insert into sut_live_account(username, password) values (?, ?);"
+  return query( _sql, value );
+}
+
+const update_user = function( value ) {
+  const _sql = "update sut_live_account  set password = ? where username = ?;"
+  return query( _sql, value );
 }
 
 const delete_room = function( value ) {
-  const _sql = "delete from sut_live_room where room_id = ?;"
-  return query( _sql, value )
+  const _sql = "update sut_live_room set room_status = 2 where id = ?;"
+  return query( _sql, value );
 }
 
 module.exports = {
@@ -83,8 +108,16 @@ module.exports = {
 	createTable,
   login_sql,
   user_sql,
+  role_sql,
   rooms_sql,
-  classes_sql,
+  room_info,
+  media_sql,
+  findItem_sql,
+  room_info_name,
   add_room,
+  update_room,
+  add_user,
+  update_user,
   delete_room,
+  room_user,
 }
