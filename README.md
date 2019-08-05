@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://avatars2.githubusercontent.com/u/19325842?s=460&v=4" alt="2Alive" width="100">
 </p>
-<h1 align="center">2Home</h1>
+<h1 align="center">2Alive</h1>
 
 > 🍰 一个基于DPlayer开发的多功能视频站
 
