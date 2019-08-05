@@ -1,31 +1,17 @@
-# 2Alive
-## Project setup
-```
-npm install
-```
+<p align="center">
+<img src="https://avatars2.githubusercontent.com/u/19325842?s=460&v=4" alt="2Alive" width="100">
+</p>
+<h1 align="center">2Home</h1>
 
-### Compiles and hot-reloads for development
-```
-npm run start
-```
+> 🍰 一个基于DPlayer开发的多功能视频站
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 介绍
 
-### Run your tests
-```
-npm run test
-```
+基于DPlayer与DPlayer-Node，在传统视频站的基础上，拓展了WebRTC与RTMP两种方式的直播推流与播放功能
+[使用文档](https://yanjun-forever.cn/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Author
 
-### Run your unit tests
-```
-npm run test:unit
-```
+**2Alive** © [聆歌](https://github.com/yanjun0501)<br>
 
+> Blog [@聆歌](https://yanjun-forever.cn) · GitHub [@聆歌](https://github.com/yanjun0501)
