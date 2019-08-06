@@ -8,7 +8,7 @@
 ## 介绍
 
 基于DPlayer与DPlayer-Node，在传统视频站的基础上，拓展了WebRTC与RTMP两种方式的直播推流与播放功能
-[使用文档](https://yanjun-forever.cn/)
+[使用文档](https://yanjun-forever.cn/technology/fe/2Alive%20%E2%80%94%E2%80%94%20%E5%B0%8F%E5%B7%A7%E8%A7%86%E9%A2%91%E7%AB%99.html)
 
 ## Author
 
